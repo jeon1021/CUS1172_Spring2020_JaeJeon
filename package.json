@@ -1,14 +1,7 @@
-  
 {
-  "name": "Demo",
-  "version": "0.0.1",
-  "private": true,
-  "scripts": {
-    "start": "node app.js"
-  },
-  "dependencies": {
-    "express": "3.2.5",
-    "jade": "*",
-    "mongodb":"*",
+  "author": {
+    "name": "Jae Jeon",
+    "email": "jae.jeon14@stjohns.edu",
+    "git: "https://github.com/jeon1021/CUS1172_Spring2020_JaeJeon"
   }
 }
